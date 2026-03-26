@@ -1,4 +1,3 @@
-
 let nome = "Leonardo";
 let idade = 90; 
 let temCupom = true; 
